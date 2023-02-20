@@ -11,7 +11,7 @@ def solution():
     alphas = set()
     r, c, maps = data_input()
 
-    # 위아래양옆
+    # 4방향
     dx = [-1, 1, 0, 0]
     dy = [0, 0, -1, 1]
 
